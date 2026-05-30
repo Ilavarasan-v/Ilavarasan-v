@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ilavarasan%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems%20with%20LLMs%2C%20RAG%20%26%20Agentic%20AI&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ilavarasan%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%2F%2F%20AI%20%26%20ML%20Engineer%20%2F%2F%20Agentic%20AI%20Builder&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%7C+ML+%7C+Data+Science+Engineer;LangChain+%7C+LangGraph+%7C+Agentic+AI+Builder;RAG+Pipelines+%7C+LLM+Applications;Turning+Data+into+Intelligent+Systems" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Building+LLM-Powered+Systems+%7C+RAG+%7C+Agentic+AI;Multi-Agent+Pipelines+%7C+LangChain+%7C+LangGraph;88%E2%80%9392%25+RAG+Accuracy+%7C+460%2B+tokens%2Fsec;Open+to+Data+Scientist+%2F+AI+Engineer+Roles+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -18,6 +18,9 @@
   <a href="https://github.com/Ilavarasan-v">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
+  <a href="tel:+918148203571">
+    <img src="https://img.shields.io/badge/Phone-%2B91--81482--03571-38BDAE?style=flat-square&logo=whatsapp&logoColor=white"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Ilavarasan-v&style=flat-square&color=70a5fd&label=Profile+Views"/>
 </div>
 
@@ -31,28 +34,41 @@
 class IlavasanV:
     def __init__(self):
         self.name         = "Ilavarasan V"
-        self.location     = "Puducherry, India 🇮🇳"
+        self.role         = "Data Scientist // AI & ML Engineer"
+        self.location     = "Puducherry, India 🇮🇳 · Remote-ready"
         self.degree       = "B.Tech CSE — IoT & Cyber Security (2025)"
-        self.certified_in = "Master Data Science | IIT-M GUVI"
-        self.email        = "ilavarasan.v78@gmail.com"
+        self.certified_in = [
+            "Master Data Science — IIT-M GUVI / HCL",
+            "Advanced Programming Professional — IIT-M",
+        ]
+        self.status       = "🟢 OPEN TO OPPORTUNITIES"
 
         self.stack = [
-            "Python", "LangChain", "LangGraph",
-            "LLMs", "RAG", "Agentic AI",
-            "TensorFlow", "FastAPI", "Streamlit",
-            "MongoDB", "ChromaDB", "OpenAI API"
+            "Python", "LangChain", "LangGraph", "LLMs",
+            "RAG", "Agentic AI", "TensorFlow", "PyTorch",
+            "FastAPI", "Streamlit", "MongoDB", "ChromaDB",
+            "Groq API", "OpenAI API", "Docker", "Power BI"
         ]
+
+        self.metrics = {
+            "RAG retrieval accuracy"   : "88–92%",
+            "Image classification"     : "89%",
+            "Agent reasoning accuracy" : "~90%",
+            "Groq inference speed"     : "460+ tokens/sec",
+            "Projects deployed"        : 15,
+        }
 
         self.currently_learning = [
-            "Advanced Agentic Workflows",
             "Multi-Agent Orchestration",
-            "MLOps & Model Deployment"
+            "MLOps & Docker Deployment",
+            "LLM Fine-Tuning (LoRA / QLoRA)",
         ]
 
-        self.fun_fact = "I built an AI that uses AI to fix its own bugs 🤖"
-
     def motto(self):
-        return "Don't just use AI — build it, break it, improve it. 🚀"
+        return (
+            "I thrive at the intersection of data engineering and "
+            "intelligent systems — from RAG pipelines to agentic AI. 🚀"
+        )
 
 me = IlavasanV()
 print(me.motto())
@@ -69,6 +85,9 @@ print(me.motto())
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white)
 
 **AI / ML / NLP**
@@ -77,8 +96,11 @@ print(me.motto())
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF4500?style=flat-square&logo=lightning&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -86,15 +108,19 @@ print(me.motto())
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 
 **Tools & Platforms**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20API-FF4500?style=flat-square&logo=lightning&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 ---
 
@@ -122,7 +148,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ilavarasan-v&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ilavarasan-v&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -130,7 +156,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ilavarasan-v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ilavarasan-v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -144,10 +170,11 @@ print(me.motto())
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-- Built and evaluated end-to-end predictive ML models using Scikit-learn, Pandas, and NumPy across multiple structured business datasets — covering the full pipeline from data ingestion to model evaluation.
-- Conducted in-depth EDA on business datasets to surface trends, patterns, and anomalies; applied feature engineering (encoding, scaling, selection) to strengthen model inputs and improve prediction reliability.
-- Delivered stakeholder-ready insights through data visualizations and analytical reports using Matplotlib, Seaborn, and Power BI — translating raw model outputs into clear operational recommendations.
-- Documented model results and performance metrics across multiple training cycles, contributing to structured review of iterative improvements and dataset behaviour.
+- Developed and evaluated AI/ML models across **3 course modules** using Python (Pandas, NumPy, Scikit-learn), producing clean analysis-ready datasets that improved downstream model reliability.
+- Executed EDA across multiple business datasets, applying **5+ feature engineering techniques** to identify trends, anomalies, and actionable patterns.
+- Optimized predictive ML models by tuning evaluation metrics across **3+ model configurations** to maximize performance.
+- Designed **2 dashboards** and analytical reports translating model outputs into stakeholder-ready insights, adopted for operational decision-making.
+- Built automated reporting pipelines that reduced manual data preparation effort and improved insight consistency across **2 business units**.
 
 </details>
 
@@ -157,11 +184,18 @@ print(me.motto())
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| 🎬 [**CineRAG — Agentic Movie Recommendation System**](https://github.com/Ilavarasan-v/CineRAG-agentic-movie-recommendation-system) | MongoDB · ChromaDB · LangGraph · OpenAI · Groq · Streamlit · FastAPI | Fault-tolerant 4-stage agentic RAG pipeline (Plan → Retrieve → Check → Generate) with self-evaluation achieving **88–92% retrieval accuracy**; automatic LLM failover from GPT-4o-mini → Groq LLaMA 3.3 |
-| 🤖 [**Multi-Model AI Agent — Multimodal Structured Output**](https://github.com/Ilavarasan-v/Multi-Model-AI-Agent) | Llama 4 Scout · Groq API · Streamlit · Python | Schema-free multimodal AI agent running at **460+ tokens/sec** via Groq API; handles receipts, whiteboards, and product images — returns structured JSON with zero predefined schema |
-| 📊 [**AI Data Analyst — Multi-Agent CSV Analysis System**](https://github.com/Ilavarasan-v/AI-Powered-Data-Analyst) | Groq · Anthropic Claude · Pandas · Matplotlib · Seaborn · Streamlit | 4-agent pipeline (Inspector → Analyst → Executor → Storyteller) enabling automated CSV analysis, code generation, bug fixing, and plain-English insights; resilient LLM dispatcher with **zero downtime** on rate limits |
+| # | Project | Stack | Key Metrics |
+|:-:|:--------|:------|:------------|
+| 🌟 | [**CineRAG — Agentic Movie Recommendation**](https://github.com/Ilavarasan-v/CineRAG-agentic-movie-recommendation-system) | LangGraph · ChromaDB · MongoDB · OpenAI · Groq · Streamlit | 4-stage self-evaluating pipeline (Plan→Retrieve→Check→Generate) · **88–92% retrieval accuracy** · GPT-4o-mini + Groq LLaMA 3.3 failover |
+| 🌟 | [**Multi-Modal AI Agent**](https://github.com/Ilavarasan-v/Multi-Model-AI-Agent) | Llama 4 Scout · Groq API · Streamlit | **460+ tokens/sec** · Dynamic JSON with zero predefined schema · Handles receipts, whiteboards, product images |
+| 🌟 | [**AI Data Analyst — Multi-Agent CSV**](https://github.com/Ilavarasan-v/AI-Powered-Data-Analyst) | Groq · Anthropic Claude · Pandas · Matplotlib · Streamlit | 4-agent pipeline (Inspector→Analyst→Executor→Storyteller) · Groq + Anthropic **zero-downtime** failover · Auto chart + code + insight |
+| ⭐ | [**DocMind — Document Intelligence**](https://github.com/Ilavarasan-v) | LangGraph · ChromaDB · PyMuPDF · Groq · FastAPI · Streamlit | 5-agent LangGraph pipeline · Page-level citations · Confidence scoring — flags answers below **75%** |
+| ⭐ | [**HR Attrition Analytics Platform**](https://github.com/Ilavarasan-v) | XGBoost · SHAP · Scikit-learn · Streamlit · Docker | XGBoost AUC **~0.74** · SHAP explainability · Bias audit · Docker + cloud deployment ready |
+| ⭐ | [**RecallAI — Intelligent Memory System**](https://github.com/Ilavarasan-v) | Groq · Llama-3.3-70b · ChromaDB · Telegram Bot · Streamlit | Dual memory (JSON episodic + ChromaDB semantic) · Per-user isolation · Cross-session recall |
+| ⭐ | [**RAG-Based Q&A System**](https://github.com/Ilavarasan-v) | MongoDB · LangChain · LLM · Streamlit | **50,000+** movie records · **88–92%** retrieval accuracy · Real-time LLM-powered Q&A |
+| ⭐ | [**Multi-Step Reasoning Agent**](https://github.com/Ilavarasan-v) | OpenAI · Groq · Agentic AI · Prompt Engineering | Planner–Executor–Verifier architecture · **~90% reasoning accuracy** · Hallucination reduction |
+| ⭐ | [**Multiclass Fish Image Classifier**](https://github.com/Ilavarasan-v) | TensorFlow · Keras · ResNet50 · Streamlit | Transfer learning + data augmentation · **89% classification accuracy** |
+| ⭐ | [**Chicago Crime Analyzer**](https://github.com/Ilavarasan-v) | Python · Power BI · PostgreSQL · Pandas | Crime hotspot mapping · Arrest efficiency analysis · Seasonal trend prediction |
 
 </div>
 
@@ -173,12 +207,14 @@ print(me.motto())
 
 | | Achievement | Details |
 |:---:|:------------|:--------|
-| 🎓 | **Master Data Science Program** | GUVI / HCL — Issued May 2025 |
-| 🏛️ | **Advanced Programming Professional** | IIT-M GUVI — Issued May 2025 |
-| 🧪 | **AI, ML & Data Analytics Internship** | NoviTech R&D Pvt. Ltd. — Issued Mar 2025 |
-| 🤖 | **Agentic RAG Pipeline** | Built CineRAG achieving 88–92% retrieval accuracy with autonomous self-evaluation |
-| ⚡ | **High-Performance Inference** | Deployed Llama 4 Scout at 460+ tokens/sec via Groq API |
-| 🔄 | **Zero-Downtime LLM Dispatcher** | Multi-agent system with automatic failover ensuring 100% uptime on rate limits |
+| 🎓 | **Master Data Science Program** | GUVI / HCL — Cert No: `DSA061622263` · Issued May 2025 |
+| 🏛️ | **Advanced Programming Professional** | IIT-M GUVI — ID: `vu3439s197478S5Td7` · Issued May 2025 |
+| 🤖 | **AI Internship Certificate** | NoviTech R&D · ID: `AIIN8413` · Jan–Mar 2025 |
+| 📊 | **Data Analytics Certificate** | NoviTech R&D · ID: `DAIN5962` · Jan–Mar 2025 |
+| 🧠 | **Machine Learning Certificate** | NoviTech R&D · ID: `MLIN1966` · Jan–Mar 2025 |
+| ⚡ | **460+ tokens/sec Inference** | Llama 4 Scout via Groq API — Multi-Modal AI Agent |
+| 🔄 | **88–92% RAG Retrieval Accuracy** | CineRAG self-evaluating agentic pipeline with retry logic |
+| 🏗️ | **15 Projects Deployed** | End-to-end ML, LLM, and agentic AI systems in production |
 
 </div>
 
@@ -188,10 +224,10 @@ print(me.motto())
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| B.Tech CSE — IoT & Cyber Security incl. Blockchain | Manakula Vinayagar Institute of Technology, Puducherry | 2021 – 2025 | 8.03 / 10 CGPA |
-| IIT-M Advanced Programming Professional & Master Data Science | IIT-M GUVI, Chennai (Online) | 2024 – 2025 | Certified |
+| Degree | Institution | Period | Score |
+|:-------|:------------|:------:|:-----:|
+| B.Tech CSE — IoT & Cyber Security incl. Blockchain | Manakula Vinayagar Institute of Technology, Puducherry | Oct 2021 – Jun 2025 | **8.03 / 10 CGPA** |
+| IIT-M Advanced Programming Professional & Master Data Science | IIT-M GUVI, Chennai (Online) | Aug 2024 – May 2025 | Certified ✅ |
 
 </div>
 
@@ -200,13 +236,23 @@ print(me.motto())
 ## 📚 Currently Learning
 
 ```
-🧱 Agentic AI      → Multi-Agent Orchestration · LangGraph State Machines · Tool-Calling Patterns
-🚀 MLOps           → Model Serving · CI/CD for ML · Docker · FastAPI Deployment
-🔭 Advanced RAG    → Hybrid Search · Re-Ranking · GraphRAG · Long-Context Retrieval
-⚙️  Vector Search  → FAISS · Pinecone · Weaviate · ANN Indexing Strategies
-🧬 LLM Fine-Tuning → LoRA · QLoRA · PEFT · Instruction Tuning
+🤖 Agentic AI       → Multi-Agent Orchestration · LangGraph State Machines · Tool Calling
+🚀 MLOps            → Docker Deployment · FastAPI Serving · CI/CD for ML Pipelines
+🧬 LLM Fine-Tuning  → LoRA · QLoRA · PEFT · Instruction Tuning on Domain Data
+🔭 Advanced RAG     → Hybrid BM25+FAISS Search · GraphRAG · Re-Ranking · Long-Context
+📊 Data Engineering → ETL Pipelines · Data Quality · Feature Stores
 ```
 
 ---
+
+<div align="center">
+  <i>Open to remote, hybrid, or relocation — let's build something intelligent together.</i>
+  <br/><br/>
+  <a href="mailto:ilavarasan.v78@gmail.com">
+    <img src="https://img.shields.io/badge/✉%20Initiate%20Contact-ilavarasan.v78%40gmail.com-70A5FD?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
