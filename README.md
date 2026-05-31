@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=ILAVARASAN%20V&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=◈%20Aspiring%20Data%20Scientist%20%2526%20AI%20Engineer%20·%20Agentic%20AI%20Builder%20·%20Open%20to%20Opportunities%20◈&descSize=15&descAlignY=62&descColor=7ee8fa&stroke=00d4ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=ILAVARASAN%20V&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=◈%20Aspiring%20Data%20Scientist%20and%20AI%20Engineer%20·%20Agentic%20AI%20Builder%20·%20Open%20to%20Opportunities%20◈&descSize=15&descAlignY=62&descColor=7ee8fa&stroke=00d4ff&strokeWidth=2" width="100%"/>
 
 </div>
 
